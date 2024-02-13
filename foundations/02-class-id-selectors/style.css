@@ -1,0 +1,21 @@
+p {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+p.var{
+    font-size: 24px;
+}
+
+#special{
+    color: blue;
+    font-size: 36px;
+}
+
+#unique {
+    color:black;
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+
+}
